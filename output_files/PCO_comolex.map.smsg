@@ -1,0 +1,3 @@
+Warning (10273): Verilog HDL warning at control.v(127): extended using "x" or "z"
+Warning (10268): Verilog HDL information at control.v(111): always construct contains both blocking and non-blocking assignments
+Warning (10273): Verilog HDL warning at alu.v(19): extended using "x" or "z"
